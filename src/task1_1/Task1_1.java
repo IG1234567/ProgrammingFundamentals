@@ -1,8 +1,8 @@
-package task1;
+package task1_1;
 
 import java.util.Scanner;
 
-public class Task1 {
+public class Task1_1 {
     public static void main(String[] args) {
 
         // Create Scanner to read input from the keyboard
